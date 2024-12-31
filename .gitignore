@@ -1,0 +1,3 @@
+node_modules/        # Loại trừ thư mục node_modules
+.env                 # Loại trừ file .env (chứa thông tin nhạy cảm)
+*.log                # Loại trừ tất cả file log
